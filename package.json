@@ -1,24 +1,24 @@
 {
-    "name": "mycellium-less",
+    "name": "mycelium-less",
     "version": "0.0.0",
-    "description": "Less compiling middleware for mycellium",
+    "description": "Less compiling middleware for mycelium",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/mvhenten/mycellium-less.git"
+        "url": "git://github.com/mvhenten/mycelium-less.git"
     },
     "keywords": [
-    "mycellium"
+    "mycelium"
   ],
     "author": "Matthijs van Henten",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/mvhenten/mycellium-less/issues"
+        "url": "https://github.com/mvhenten/mycelium-less/issues"
     },
-    "homepage": "https://github.com/mvhenten/mycellium-less",
+    "homepage": "https://github.com/mvhenten/mycelium-less",
     "dependencies": {
         "async": "^0.9.0",
         "lodash": "^2.4.1",
